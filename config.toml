@@ -1,0 +1,60 @@
+## Basic Configuration
+
+baseurl = "https://collinschaafsma.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Collin Schaafsma"
+title = "Collin Schaafsma"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Collin Schaafsma"
+intro = "Build / Lead"
+description = "I build software, products, teams, and businesses."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Personal site of Collin Schaafsma"
+keywords = "leadership,engineering,software engineering,builder"
+
+## Social Accounts
+[params.social]
+github = "collinschaafsma"
+instagram = "backforty.life"
+linkedin = "collinschaafsma"
+email = "schaafsma@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2021. Collin Schaafsma. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[menu]
+    [[menu.main]]
+        name = "blog"
+        weight = 100
+        url = "/blog/"
+    [[menu.main]]
+        name = "about"
+        weight = 200
+        url = "/about/"
