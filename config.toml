@@ -29,8 +29,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Personal site of Collin Schaafsma"
-keywords = "leadership,engineering,software engineering,builder"
+description = "I build software, products, teams, and businesses."
+keywords = "leadership,engineering,software engineering,builder,collin,schaafsma"
 
 ## Social Accounts
 [params.social]
@@ -46,7 +46,7 @@ poweredby = true
 highlightjs = true
 socialmarkup = true
 toc = true
-displayrssicon = true
+displayrssicon = false
 
 ## Main Menu
 [menu]
