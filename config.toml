@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Collin Schaafsma"
-intro = "Build / Lead"
-description = "I build software, products, teams, and businesses."
+intro = ""
+description = "As a software engineer and business owner, I have been fortunate to work on many amazing projects with inspiring people. From early-stage startups to Fortune 500 companies and everything in between. I have owned a successful software development consultancy and even a custom bicycle frame company. I consider myself a proud generalist and a life long learner."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
