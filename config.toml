@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Collin Schaafsma"
 intro = ""
-description = "As a software engineer and business owner, I have been fortunate to work on many amazing projects with inspiring people, from early-stage startups to Fortune 500 companies and everything in between. I have owned a successful software development consultancy and even a custom bicycle frame company. I consider myself a proud generalist and a lifelong learner."
+description = "As a software engineer and business owner, I have been fortunate to work on many amazing projects with inspiring people, from early-stage startups to Fortune 500 companies and everything in between. I have owned a successful software development consultancy and even a custom bicycle frame company. I consider myself a proud generalist and a lifelong learner. I love building things and serving my teams!"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
